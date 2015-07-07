@@ -134,7 +134,7 @@ bindsym Mod1+Shift+c reload
 bindsym Mod1+Shift+r restart
 
 # Lock screen
-bindsym Mod1+Ctrl+l exec i3lock
+bindsym Mod1+Ctrl+l exec i3lock -c 220000
 
 
 # exit i3 (logs you out of your X session)
